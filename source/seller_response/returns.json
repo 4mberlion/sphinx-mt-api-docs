@@ -1,0 +1,57 @@
+{
+    0: {
+        return_aid: "209",
+        channel_id: "459",
+        return_account_id: "297",
+        return_sandbox: false,
+        return_group: "1",
+        return_last_status: "0",
+        return_last_status_data: "2019-07-05 14:37:14",
+        return_internal_doc_id: "-1",
+        return_doc_number: "100/001/test3",
+        return_hash_access: "wtwerteww",
+        return_person_name: "Zgłoszenie klienta",
+        return_hash_id: "235",
+        return_person_email: "john.kowalski@example.pl",
+        return_person_phone: "570894687",
+        return_company_nip: "",
+        return_company_name: "",
+        return_created_by__mode: "10",
+        return_created_by__b2b_userid: "-1",
+        return_created_by__mt_idu: "220",
+        return_created_by__accountid: "297",
+        return_created_by__customerid: "-1",
+        return_created_by__customer_addressid: "-1",
+        return_doc_friendly_number: "00209/2019",
+        return_reklamacja_detail: {
+            return_detail_item: [
+                {
+                    kod: "a",
+                    ilosc: "1",
+                    rodzaj: "2"
+                },
+                {
+                    kod: "b",
+                    ilosc: "2",
+                    rodzaj: "4"
+                },
+                {
+                    kod: "c",
+                    ilosc: "3",
+                    rodzaj: "3"
+                }
+            ]
+        },
+    return_adres_detail: null,
+    _lastUpdateResult: null,
+    updated_at: "2019-07-05 14:37:14",
+    created_at: "2019-07-05 14:37:14"
+    },
+    1: {
+        ...
+    },
+    2: {
+        ...
+    },
+    ...
+}

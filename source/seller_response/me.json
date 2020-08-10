@@ -1,0 +1,12 @@
+{
+    "account_id": "1",
+    "created_at": {
+        "date": "2017-01-02 09:53:27.614099",
+        "timezone_type": 3,
+        "timezone": "Europe/Sarajevo"
+    },
+    "account_configured": true,
+    "is_blocked": false,
+    "is_blocked_temporary": false,
+    "register_package": "retail"
+}

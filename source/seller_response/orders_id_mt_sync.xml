@@ -1,0 +1,65 @@
+<zamowienia>
+    <zam>
+        <docid>20908</docid>
+        <mag_symbol>default</mag_symbol>
+        <foreign_number>16801</foreign_number>
+        <foreign_number_combined>prestashop.1.16801</foreign_number_combined>
+        <datec>1573991678</datec>
+        <datec_nice>2019-11-17 12:54</datec_nice>
+        <api>prestashop</api>
+        <apisite>1</apisite>
+        <apisite2>pl</apisite2>
+        <user>jan.kowalski@gmail.com</user>
+        <cur>PLN</cur>
+        <c_brut>74.2800000000</c_brut>
+        <cm/>
+        <pt>Przelewy24</pt>
+        <snd>0</snd>
+        <klient>
+            <idk>199643</idk>
+            <nazwa>JAN KOWALSKI</nazwa>
+            <nazwa_s/>
+            <nip/>
+            <fa>0</fa>
+            <isc>0</isc>
+            <nrdomu> </nrdomu>
+            <ulica>Polna 5</ulica>
+            <miasto>Warszawa</miasto>
+            <woj>-1</woj>
+            <kod>62-081</kod>
+            <kraj2>PL</kraj2>
+            <kraj>Poland</kraj>
+        </klient>
+        <title>prestashop/ZAM/Brulion/20908/11/2019/jankowalski</title>
+        <subtitle>BEZ FAKTURY</subtitle>
+        <data>
+            <l>
+                <sku>mt_transport</sku>
+                <p_name>Usługa transportowa</p_name>
+                <c_net>11.3821</c_net>
+                <c_brut>14</c_brut>
+                <vat_id>23</vat_id>
+                <szt>1</szt>
+                <tr>1</tr>
+            </l>
+            <l>
+                <sku>mt_751e5e830601abd6</sku>
+                <p_name>Edeka Karma 4 kg dla psa - Jagnięcina wołowina dr</p_name>
+                <c_net>22</c_net>
+                <c_brut>27.06</c_brut>
+                <vat_id>23</vat_id>
+                <szt>1</szt>
+                <tr>0</tr>
+            </l>
+            <l>
+                <sku>mt_fb11d18f8a411b23</sku>
+                <p_name>Edeka karma 15 kg dla psa - miękkie krokiety</p_name>
+                <c_net>13.5</c_net>
+                <c_brut>16.61</c_brut>
+                <vat_id>23</vat_id>
+                <szt>2</szt>
+                <tr>0</tr>
+            </l>
+        </data>
+    </zam>
+</zamowienia>

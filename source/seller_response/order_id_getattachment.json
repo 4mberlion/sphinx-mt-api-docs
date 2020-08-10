@@ -1,0 +1,9 @@
+[
+    {
+        "attachment_name": "protokoly-9e909604ce3c63a8f60eb6e0808c8e13.pdf",
+        "attachment_mime": "application/pdf",
+        "billOfSale_type": "invoice",
+        "attachment_type": "file",
+        "url": "https://seller-api.masstrade.pl/path_to_file/protokoly-9e909604ce3c63a8f60eb6e0808c8e13.pdf"
+    }
+]

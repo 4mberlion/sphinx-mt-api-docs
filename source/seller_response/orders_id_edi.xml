@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<masstrade_data>
+    <Order>
+        <OrderHeader>
+            <OrderNumber>N aukcji: 16801</OrderNumber>
+            <IdNumber>20908</IdNumber>
+            <OrderDate>2019-11-17 12:11:38</OrderDate>
+            <OrderType/>
+            <DocumentFunctionCode>0</DocumentFunctionCode>
+            <OrderCurrencyCode>PLN</OrderCurrencyCode>
+            <OrderComment/>
+        </OrderHeader>
+        <OrderParty>
+            <BuyerParty>
+                <ILN/>
+                <Name> JAN KOWALSKI</Name>
+                <Street>Polna 5 </Street>
+                <PostalCode>62-081</PostalCode>
+                <City>Prze&#x17A;mierowo</City>
+                <Country>PL</Country>
+                <Contact>
+                    <Mail>jan.kowalski@gmail.com</Mail>
+                    <Phone>607849488</Phone>
+                </Contact>
+            </BuyerParty>
+            <ShipToParty>
+                <ILN/>
+                <Name> JAN KOWALSKI</Name>
+                <Street>Polna 5 </Street>
+                <PostalCode>62-081</PostalCode>
+                <City>Warszawa</City>
+                <Country>PL</Country>
+                <Contact>
+                    <Mail>jan.kowalski@gmail.com</Mail>
+                    <Phone>607849488</Phone>
+                </Contact>
+            </ShipToParty>
+        </OrderParty>
+        <OrderDetail>
+            <Item>
+                <ItemNumber>1</ItemNumber>
+                <EAN/>
+                <SellerItemId>Us&#x142;uga transportowa</SellerItemId>
+                <Name>Transport</Name>
+                <UnitOfMeasure>PCE</UnitOfMeasure>
+                <QuantityValue>1</QuantityValue>
+                <UnitPriceValue>11.3821</UnitPriceValue>
+                <GrossPrice>14</GrossPrice>
+            </Item>
+            <Item>
+                <ItemNumber>2</ItemNumber>
+                <EAN/>
+                <SellerItemId/>
+                <Name>Edeka Karma 4 kg dla psa - Jagni&#x119;cina wo&#x142;owina dr&#xF3;b i ry&#x17C;</Name>
+                <UnitOfMeasure>PCE</UnitOfMeasure>
+                <QuantityValue>1</QuantityValue>
+                <UnitPriceValue>22</UnitPriceValue>
+                <GrossPrice>27.06</GrossPrice>
+            </Item>
+            <Item>
+                <ItemNumber>3</ItemNumber>
+                <EAN/>
+                <SellerItemId/>
+                <Name>Edeka karma 15 kg dla psa - mi&#x119;kkie krokiety</Name>
+                <UnitOfMeasure>PCE</UnitOfMeasure>
+                <QuantityValue>2</QuantityValue>
+                <UnitPriceValue>13.5</UnitPriceValue>
+                <GrossPrice>16.61</GrossPrice>
+            </Item>
+        </OrderDetail>
+        <MassTradeData>
+            <IsB2B>0</IsB2B>
+            <Apiname>prestashop</Apiname>
+        </MassTradeData>
+    </Order>
+</masstrade_data>

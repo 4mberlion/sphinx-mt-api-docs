@@ -1,0 +1,8 @@
+{
+    "serverName": "DevSebaMasstrade_optimo",
+    "isProduction": false,
+    "remoteWriteEnabled": true,
+    "cronEnabled": true,
+    "cronExtensionsEnabled": true,
+    "adminAccessOnly": false
+}

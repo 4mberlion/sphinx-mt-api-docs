@@ -1,0 +1,12 @@
+[
+    {
+    channel_id: "29842",
+    enabled: "1",
+    api: "allegro",
+    language: "pl"
+    },
+    {
+        ...
+    }
+    ...
+]

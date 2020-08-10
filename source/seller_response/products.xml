@@ -1,0 +1,46 @@
+<data>
+    <object>
+        <id>1841092</id>
+        <parentId>0</parentId>
+        <identifiers>
+            <sku></sku>
+            <ean>Does not apply</ean>
+            <pkwiu></pkwiu>
+        </identifiers>
+        <price>
+            <selling>
+                <netto>365.45</netto>
+                <brutto>449.5</brutto>
+                <vat>23</vat>
+                <currency>EUR</currency>
+            </selling>
+            <buying>
+                <netto>0</netto>
+                <vat>0</vat>
+                <currency></currency>
+            </buying>
+        </price>
+        <state>
+            <id>1</id>
+            <name>Nowy</name>
+        </state>
+        <type>
+            <id>0</id>
+            <name>pid_primary</name>
+        </type>
+        <manufacturer>
+            <id>43514</id>
+        </manufacturer>
+        <storage>
+            <enabled>true</enabled>
+        </storage>
+        <categories>
+            <id>294960</id>
+            <additionalIds/>
+        </categories>
+    </object>
+    <object>
+        ...
+    </object>
+    ...
+</data>

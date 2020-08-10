@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1888849,
+        "parentId": 18798753,
+        "order": 0,
+        "identifiers": {
+            "internal": "--",
+            "external": null
+        },
+        "propertyGroups": [
+            "30709",
+            "30724",
+            "30723",
+            "30716",
+            "30720",
+            "30722",
+            "30721"
+        ],
+        "state": {
+            "active": true
+        }
+    },
+    {
+        ...
+    },
+    ...
+]

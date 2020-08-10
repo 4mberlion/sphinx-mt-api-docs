@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1841092,
+        "parentId": 0,
+        "identifiers": {
+            "sku": null,
+            "ean": "Does not apply",
+            "pkwiu": null
+        },
+        "price": {
+            "selling": {
+                "netto": 365.44999999999998863131622783839702606201171875,
+                "brutto": 449.5,
+                "vat": 23,
+                "currency": "EUR"
+            },
+            "buying": {
+                "netto": 0,
+                "vat": 0,
+                "currency": null
+            }
+        },
+        "state": {
+            "id": 1,
+            "name": "Nowy"
+        },
+        "type": {
+            "id": 0,
+            "name": "pid_primary"
+        },
+        "manufacturer": {
+            "id": 43514
+        },
+        "storage": {
+            "enabled": true
+        },
+        "categories": {
+            "id": 294960,
+            "additionalIds": []
+        }
+    },
+    {
+        ...
+    }
+    ...
+]

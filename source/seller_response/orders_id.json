@@ -1,0 +1,42 @@
+[
+    {
+        "channel": {
+            "id": "434",
+            "api": "allegro",
+            "site": 1,
+            "order_id": "1004461846",
+            "byuer_id": "Client:60411911"
+        },
+        "document": {
+            "id": "18060",
+            "name": "ZAM/Brulion/18060/04/2019",
+            "type": "IORI",
+            "seller": {
+                "id": 158997
+            },
+            "buyer": {
+                "id": 168982
+            },
+            "lines_count": 0,
+            "storage": {
+                "id_source": 568,
+                "id_dest": 568,
+                "is_commited": false
+            },
+            "status": {
+                "status": "opened",
+                "closed_id": null,
+                "closed_by_user_id": null,
+                "closed_at": null
+            }
+        },
+        "pricing": {
+            "currency": "PLN",
+            "total_net": "37.3170000000",
+            "total_gross": "45.8999100000",
+            "transport_net": "13.00810000",
+            "transport_tax": "23"
+        },
+        "attachments": []
+    }
+]
